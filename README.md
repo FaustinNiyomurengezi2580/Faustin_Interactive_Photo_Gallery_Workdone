@@ -25,4 +25,4 @@ The solution achieves the anticipated time and space complexity by adhering to t
 
 
 String Transformation (stringTransform.js): Using the guidelines given, I created a function that modifies strings. 
-All potential scenarios listed in the solution are addressed in
+All potential scenarios listed in the solution are addressed in.
