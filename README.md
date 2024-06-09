@@ -1,6 +1,6 @@
-Task Force for COA
+TASKFORCE Take-home Challenge
 
-I have uploaded my entry for the COA TASKFORCE Challenge to this repository. 
+I have uploaded my entry for the TASKFORCE Take-home Challenge to this repository. 
 The task is utilizing JavaScript to solve two code challenges and create an interactive photo gallery.
 
 Setting Up an Interactive Photo Gallery: A Guide
